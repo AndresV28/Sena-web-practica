@@ -1,0 +1,34 @@
+/*  Estilos ejercicio 2  */
+
+#titulo{
+    text-align: center;
+}
+
+/* parrafos con poca info */
+.color-one{
+    background-color: #C0C0C0;
+}
+
+/* titulos */
+.color-two{
+    background-color: #464646;
+}
+
+/* parrafos de informacion */
+.color-three{
+    background-color: #747373;
+}
+
+/*datos personales */
+.span-one{
+    color: rgb(10, 193, 248);
+}
+
+/*Nombre de la institucion */
+.span-two{
+    color: rgb(3, 3, 185);
+}
+
+.margen{
+    margin: 0%;
+}

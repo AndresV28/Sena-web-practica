@@ -1,0 +1,207 @@
+
+.caja{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.bordes{
+    border: 2px solid black;
+    margin-right: 20px;
+    width: 200px;
+}
+/* -------------------------------------------------- */
+
+/* SEGUNDO EJEMPLO */
+.bordes2{
+    border: 2px solid black;
+    margin-right: 10px;
+    width: 200px;
+    font-size: 60%;
+}
+/* -------------------------------------------------- */
+
+/* TERCER EJEMPLO */
+
+.caja3{
+    display: flex;
+    
+}
+.bordes3{
+    border: 2px solid black;
+    margin-right: 10px;
+    width: 200px;
+}
+
+.bordes3-1{
+    border: 2px solid black;
+    width: 250px;
+    height: 150px;
+    margin-right: 20px;
+}
+
+.bordes3-2{
+    border: 2px solid black;
+    width: 250px;
+    height: 250px;
+    margin-top: 0px;
+    margin-right: 20px;
+}
+
+.bordes3-3{
+    border: 2px solid black;
+    width: 200px;
+    margin-top: 35px;
+    margin-right: 20px;
+}
+
+.bordes3-5{
+    border: 2px solid black;
+    width: 260px;
+    height: 180px;
+    margin-top: 40px;
+    margin-right: 20px;
+}
+
+/* -------------------------------------------------- */
+
+/* CUARTO EJEMPLO */
+.flex{
+    display: flex;
+    
+}
+.table1{
+    border: 2px solid black;
+    margin-bottom: 0%;
+    margin-right: 20px;
+    width: 200px;
+    
+}
+
+.color{
+    text-align: center;
+    font-size: 2em;
+    font-weight: bolder;
+    background-color: grey;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    border-bottom: 2px solid black;
+}
+.margin{
+    margin-top: 0%;
+}
+
+
+/* -------------------------------------------------- */
+
+/* QUINTO EJEMPLO */
+
+.bordes4{
+    border: 2px solid black;
+    margin-right: 20px;
+    width: 250px;
+}
+
+.fruta{
+    font-size: 3em;
+    float: left;
+    margin-bottom: 230px;
+}
+
+.margin4{
+    margin-top: 0%;
+}
+
+/* -------------------------------------------------- */
+
+/* SEXTO EJEMPLO */
+
+.caja6{
+    display: flex;
+}
+
+.cuadro6{
+    border: 2px solid black;
+    margin-right: 20px;
+    
+    
+}
+
+.fruta6{
+    float: left;
+    font-size: 2em;
+    margin-bottom: 0%;
+    width: 100px;
+    text-align: center;
+    
+}
+
+.titulo6{
+    float: right;
+    font-size: 2em;
+    background-color: rgb(196, 192, 192);
+    border-left: 2px solid black;
+    width: 100px;
+    text-align: center;
+}
+
+/* -------------------------------------------------- */
+
+/* SEPTIMO EJEMPLO */
+
+.fruta7{
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.titulo7{
+    background-color: rgb(196, 192, 192);
+    font-size: 2em;
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.parrafo7{
+    margin-top: 0%;
+}
+
+
+/* -------------------------------------------------- */
+
+/* OCTAVO EJEMPLO */
+
+.derecha{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    margin-right: 20px;
+    width: 200px;
+}
+
+.flex1{
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    
+   
+}
+
+.titulo8{
+    background-color: rgb(196, 192, 192);
+    border-bottom: 2px solid black;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-size: 2em;
+    text-align: center;
+}
+
+.fruta8{
+    font-size: 3em;
+    align-self: center;
+    
+}
+
+.p8{
+    margin-top: 0%;
+}

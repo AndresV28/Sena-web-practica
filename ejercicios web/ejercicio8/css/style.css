@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(179, 179, 179);
+}
+
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* ccs de fallecidos color rojo  ----> Kurt Cobain y Andres Escobar */ 
+.borde1{
+    margin-top: 30px;
+    border: 5px solid red;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+/* PRIMERA DIV --- ARRIBA */
+.arriba1{
+    background-color: rgb(250, 57, 57);
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-size: 2em;
+    border-top-right-radius: 12px;
+}
+
+/* SEGUNDA --- ABAJO */
+.medio1{
+    background-color: rgb(247, 126, 126);
+    padding-left: 15px; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+/* TERCERA DIV --- ABAJO */
+.abajo1{
+    background-color: rgb(248, 164, 164);
+    padding-left: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+
+/* ccs de fallecidos color rojo  ----> Andres Escobar y Richard Nixon */ 
+
+.borde2{
+    margin-top: 30px;
+    border: 5px solid rgb(179, 0, 179);
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+/* PRIMERA DIV --- ARRIBA */
+.arriba2{
+    background-color: rgb(182, 59, 182) ;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2em;
+    border-top-left-radius: 12px;
+    
+}
+
+/* SEGUNDA DIV --- MEDIO */
+.medio2{
+    background-color: rgb(190, 95, 190) ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 15px;
+}
+
+/* TERCERA DIV --- ABAJO */
+.abajo2{
+    background-color: rgb(194, 152, 194) ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 30px;
+    border-bottom-right-radius: 12px;
+}

@@ -1,0 +1,24 @@
+/* titulo superior*/
+.titulo{
+
+    border-bottom: 3px solid blue;
+
+}
+
+/* parrafos */
+.parrafos{
+    border: 2px solid #747373;
+    color: black;
+}
+
+/* informarcion del libro */
+.info{
+    border-top: 3px dashed red ;
+    border-bottom: 3px dashed red;
+}
+
+/* contenido del libro */
+.borde-contenido{
+
+    border: 2px dashed rgb(134, 255, 103);
+}

@@ -1,0 +1,114 @@
+body{
+    background-color: grey;
+}
+
+h1{
+    text-align: center;
+}
+
+.naranja{
+    text-align: center;
+    border: 2px solid orange;
+    background-color: rgb(253, 202, 108);
+}
+
+/* Frase izquierda top */
+.amarillo{
+    border: 2px solid yellow;
+    background-color: rgb(245, 245, 122);
+    width: 40%;
+    height: 30%;
+    position: absolute;
+    top: 170px;
+}
+
+#text-amarillo{
+    margin-bottom: 0%;
+}
+.span-amarillo{
+    margin-top: 0%;
+}
+
+/* Frase derecha top */
+.azul{
+    border: 2px solid blue;
+    background-color: rgb(99, 99, 247);
+    width: 40%;
+    height: 30%;
+    position: absolute;
+    top: 170px;
+    left: 800px;
+}
+
+.azul:hover{
+    z-index: 1;
+}
+
+#text-azul{
+    text-align: right;
+    padding-right: 15px;
+}
+
+/* Frase centro */
+
+.verde{
+    border: 2px solid green;
+    background-color: rgb(106, 252, 106);
+    width: 40%;
+    height: 30%;
+    position: absolute;
+    top: 300px;
+    left: 400px;
+}
+
+.verde:hover{
+    z-index: 1;
+}
+
+#text-verde{
+    text-align: center;
+    margin-bottom:0
+}
+
+.span{
+    text-align: center;
+    margin-top:0; 
+    
+    
+}
+
+/* Frase izquierda bot */
+
+.blanco{
+    border: 2px solid rgb(99, 98, 98);
+    background-color: rgb(197, 195, 195);
+    width: 40%;
+    height: 30%;
+    position: absolute;
+    top: 450px;
+}
+
+.blanco:hover{
+    z-index: 1;
+}
+
+/* Frase derecha bot */
+
+.rojo{
+    border: 2px solid red;
+    background-color: rgb(255, 146, 146);
+    width: 40%;
+    height: 30%;
+    position: absolute;
+    top: 450px;
+    left: 800px;
+}
+
+.rojo:hover{
+    z-index: 1;
+}
+
+#text-rojo{
+    text-align: right;
+    padding-right: 15px;
+}

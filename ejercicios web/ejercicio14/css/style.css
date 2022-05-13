@@ -1,0 +1,90 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* header principal */
+.site-header {
+    background-color: rgba(0, 0, 0, .85);
+}
+
+.site-header a {
+color: #8e8e8e;
+transition-duration: 2s;  /* nav */
+text-decoration: none;
+}
+
+.site-header a:hover {
+color: rgb(250, 4, 4);
+}
+  
+/* ---------------------------------------------------------------------------------- */
+ 
+
+/* espacio de nav */
+
+.espacio{
+    margin-top: 40px;
+    
+}
+
+.espacio1{  /*espacio texto */
+    margin-top: 80px;
+}
+
+/*espacio de proyectos */
+.espacio2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/*espacio texto */
+.bajo{    
+    margin-bottom: 50px;
+}
+
+.centro{
+    text-align: center;
+}
+
+
+/* ---------------------------------------------------------------------------------- */
+
+/* pie de pagina */
+.hover{
+    transition-duration: 2s;
+}
+.hoverF:hover{
+    color: rgb(61, 80, 255);   /* Fcebook y msn */
+}
+
+.hoverT:hover{
+    color: rgb(55, 226, 252);  /*twitter */
+}
+
+.hoverW:hover{
+    color: rgb(30, 248, 52);   /* whatsapp */
+}
+
+.hoverY:hover{
+    color: rgb(255, 13, 13);  /* youtube */
+}
+
+.hoverC:hover{
+    color: rgb(175, 158, 6);  /* correo */
+}
+
+.hoverG:hover{
+    color: rgb(3, 133, 68);   /* github */
+}
+
+.hoverI:hover{
+    color: rgb(97, 1, 215);   /* instagram */
+}
+
+.vinculo{
+    color: black;
+    text-decoration: none;
+}
+
+
+

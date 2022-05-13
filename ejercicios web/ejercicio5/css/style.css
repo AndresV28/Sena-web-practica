@@ -1,0 +1,50 @@
+/*  titulo h1 */
+#principal{
+    color: white
+}
+
+/*  frase fondo blanco */
+.parrafo1{
+    border: 5px solid black;
+    border-radius: 20px ;
+    background-color: white;
+    padding: 15px;
+    align-items: center;
+    margin-right: 350px;
+    margin-left:  350px;
+}
+
+/*  frase fondo cafe */
+.parrafo2{
+    border: 10px solid brown;
+    border-width: 10px;
+    background-color: rgb(216, 46, 46);
+    color: white;
+    margin-right: 700px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding: 15px;
+}
+
+/*  frase fondo naranja */
+.parrafo3{
+    border: 10px solid rgba(226, 76, 21, 0.911);
+    background-color: rgb(247, 143, 16);
+    margin-left: 650px ;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 15px;
+    color: white;
+}
+
+/*  frase fondo azul */
+.parrafo4{
+    color: white;
+    align-items: center;
+    border: 5px dashed rgb(102, 102, 250);
+    background-color: blue;
+    margin-right: 350px;
+    margin-left:  350px;
+    padding: 15px;
+    
+}

@@ -1,0 +1,163 @@
+
+#menu-top{
+    border:  5px outset blue;
+    background-color: blue;
+}
+
+.menu{
+    display: inline-block;
+    color: white;
+    margin-right: 20px;
+    font-size:x-large;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+/* PRINCIPAL */
+
+#principal{
+    
+    margin-left: 350px;
+    margin-right: 240px;
+    margin-bottom: 60px;
+}
+
+img{
+    width: 300px;
+    margin-top: 13px;
+    float: left;
+    margin-right: 10px;
+}
+
+.titulos-noticias{
+    color: orangered;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    font-size: x-large;
+    margin-bottom: 1%;
+}
+
+
+
+/* MENU IZQUIERDA AZUL */
+
+#menu1-izquierda{
+    position: absolute;
+    top: 75px;
+    width: 300px;
+    margin-top: 20px;
+    padding: 5px;
+    border: 2px solid gray;
+    background-color: rgb(207, 205, 205);
+    
+}
+
+.titulos-izq{
+    display: inline-block;
+    color: blue;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 0%;
+    
+}
+
+.noticia{
+    display: block;
+    color: blue;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium; 
+    margin-top: 0%;
+}
+
+.fecha{
+    display: flex;
+    margin-bottom: 0%;
+    
+}
+
+/* INFP IZQUIERDA NARANJA */
+
+#izq-naranja{
+    position: absolute;
+    top: 600px;
+    margin-top: 15px;
+    padding: 5px;
+    border: 2px dashed orangered;
+    background-color: rgb(253, 214, 200);
+    width: 300px;
+}
+
+#titulo-naranja{
+    color: orangered;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.leer{
+    color: orangered;
+    font-size: medium;
+    text-decoration: underline;
+}
+
+/* INFO DERECHA NARANJA */
+
+#dere-naranja{
+    position: absolute;
+    top: 75px;
+    left: 1125px;
+    width: 200px;
+    margin-top: 20px;
+    padding: 5px;
+    border: 2px solid orangered;
+    
+}
+
+.dere-titulo{
+    background-color: rgb(252, 135, 93);
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    margin-top: 1%;
+    margin-bottom: 0%;
+    text-align: center;
+}
+
+.margin{
+    margin-top: 2%;
+    margin-bottom: 0%;
+}
+
+.leer-dere{
+    color: blue;
+    text-decoration: underline;
+    margin-top: 1%;
+}
+
+/* PIE DE PAGINA */
+
+#pie{
+    border-top: 2px solid gray;
+    border-bottom: 2px solid gray;
+}
+
+.lista-pie{
+    display: inline-block;
+    color: blue;
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: medium;
+    text-decoration: underline;
+
+}
+
+.espacio-pie{
+    display: inline-block;
+    font-size: x-large;
+    margin-left: 3px;
+}

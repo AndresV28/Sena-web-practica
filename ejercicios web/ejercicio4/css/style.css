@@ -1,0 +1,34 @@
+/* EJERCICIO 4 */
+
+.titulo{
+    text-align: center;
+}
+
+.titulos{
+    background-color: #707070
+    
+}
+
+.h2{
+    color: white;
+}
+
+.img{
+    
+    padding-left: 12%;
+    padding-right: 12%;
+    text-align: auto;
+
+}
+
+.margin{
+    padding-left: 5%;
+}
+
+.color{
+    color: crimson;
+}
+
+.sub{
+    background-color: white;
+}

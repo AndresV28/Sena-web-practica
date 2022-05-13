@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(175, 174, 174);
+}
+
+h1{
+    color: rgb(4, 4, 131);
+    text-align: right;
+    letter-spacing: 20px;
+}
+
+.espacio{
+    margin-top: 20px;
+}
+
+.img1{
+    width: 200px;
+    float: left;
+    
+}
+
+.img2{
+    width: 200px;
+    margin:auto;
+	display:block;
+}
+
+.img3{
+    width: 200px;
+    float: right;
+}
+
+h3{
+    color: white;
+    background-color: green;
+    
+}
+
+.div{
+    margin-top: 110px;
+}
+
+.lugares{
+    font-weight: bold;
+    font-style: italic;
+}
+
+
